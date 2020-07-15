@@ -1,6 +1,6 @@
 ### Sup 👋
 
-<img src="https://github.com/imbatman4/imbatman4/blob/master/output.gif"/>
+<img width="300px" src="https://github.com/imbatman4/imbatman4/blob/master/output.gif"/>
 
 I'm Ben & I'm a Software Engineer currently working on [USERGRAM](https://www.bebit.co.jp/usergram/) at [bebit, Inc](https://github.com/bebit). Currently trying to level up to be a Senior Developer.
 
