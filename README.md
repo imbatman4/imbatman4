@@ -1,26 +1,26 @@
-### Sup 👋
+<h2> Hi, I'm Ben.</h2>
 
-<img width="300px" src="https://github.com/imbatman4/imbatman4/blob/master/output.gif"/>
+<h3> 👨🏻‍💻 About Me </h3>
 
-I'm Ben & I'm a Software Engineer currently working on [USERGRAM](https://www.bebit.co.jp/usergram/) at [bebit, Inc](https://github.com/bebit). Currently trying to level up to be a Senior Developer.
+- 🤔 &nbsp; Exploring new technologies and developing software solutions..
+- 🎓 &nbsp; Studied Software Engineering and Japanese at Oxford Brookes University.
+- 💼 &nbsp; Working as a remote software engineer at [beBit Inc](https://www.bebit.co.jp/) on [USERGRAM](https://www.bebit.co.jp/usergram/).
+- 🌱 &nbsp; Learning more about Cloud Architecture on the side.
 
-### About me
+<h3>🛠 Tech Stack</h3>
 
-```json
-"basic_info": {
-    "id": 6195689,
-    "full_name": "Benjamin Lo",
-    "nationality": "British",
-    "profession": "Full Stack Engineer",
-    "years_of_experience": 6
-}
-```
+- 💻 &nbsp; Python | Django | Django REST Franework
+- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | Node.js | ReactJS | VueJS | NextJS
+- 🛢 &nbsp; MySQL | NoSQL
+- 🔧 &nbsp; Git | Markdown
 
-### Stack I'm used to
-```json
-"technologies": {
-    "frontend": ["React.JS", "Vue.JS"],
-    "backend": ["Django", "DRF", "Laravel", "MySQL", "Ruby On Rails"],
-    "devops": ["docker", "kubernetes", "AWS Athena", "AWS Lambda", "AWS DynamoDB"]
-}
-```
+<br/>
+
+[![AVS1508's GitHub Stats](https://github-readme-stats.vercel.app/api?username=imbatman4&show_icons=true)](https://github.com/AVS1508)
+
+<h3> 🤝🏻 Connect with Me </h3>
+
+<p align="center">
+<a href="https://www.benjaminlo.io/"><img alt="Website" src="https://img.shields.io/badge/Website-www.benjaminlo.io-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://www.linkedin.com/in/benjamin-lo-6b0ba11a/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Benjamin%20Lo-blue?style=flat-square&logo=linkedin"></a>
+</p>
