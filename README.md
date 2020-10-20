@@ -16,7 +16,4 @@
 
 <br/>
 
-[![AVS1508's GitHub Stats](https://github-readme-stats.vercel.app/api?username=imbatman4&show_icons=true)](https://github.com/imbatman4)
-
-<h3> 🤝🏻 Connect with Me </h3>
-
+[![AVS1508's GitHub Stats](https://github-readme-stats.vercel.app/api?username=imbatman4&show_icons=true&theme=react)](https://github.com/imbatman4)
